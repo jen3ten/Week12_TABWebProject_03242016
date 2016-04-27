@@ -1,0 +1,111 @@
+﻿body{ /*sets the size of the body for each page*/
+    width:960px;
+    height:820px;
+    margin:10px;
+}
+
+h1{ /*sets the size, color, margins, padding for heading 1 at the top of every page*/
+    background-color:dimgray;
+    width:930px;
+    height:60px;
+    color:white;
+    margin-top:10px;
+    padding-top:15px;
+    padding-left:10px;
+}
+
+h2{ /*sets the font for heading 1 on any page*/
+      font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p{ /*sets the font and right margin for paragraphs on any page*/
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-right:10px;
+}
+
+ul{ /*sets the font for unordered lists on any page*/
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.bodymain{ /*sets the background image and size for MainPage*/
+    background-image:url("Images/photo6tanopaquesizedbright.jpeg");
+    background-repeat:no-repeat;
+    background-size:960px;    
+}
+
+.bodyhistory{ /*sets the background image and size for HistoryPage*/
+    background-image:url("Images/photo6yellowopaquesizedbright.jpeg");
+    background-repeat:no-repeat;
+    background-size:960px;    
+}
+
+.bodyspecs{ /*sets the background image and size for SpecsPage*/
+    background-image:url("Images/photo6red2opaquesizedbright.jpeg");
+    background-repeat:no-repeat;
+    background-size:960px;    
+}
+
+.header{ /*sets the font for the header on each page, which consists of heading 1 and links to all web pages*/
+    font-family: 'Oswald', sans-serif;
+    font-weight:lighter;
+}
+
+.link { /*sets the color, background, margins, border, shape and location for the links to all web pages*/
+    color: white;
+    background:#A30A2D;
+    margin-right: 25px;
+    margin-top:10px;
+    padding: 10px;
+    border: 5px solid #A30A2D;
+    border-top-left-radius: 60px;
+    border-top-right-radius: 100px;
+    border-bottom-right-radius:20px;
+    font-family: 'Oswald', sans-serif;
+    float:right;
+    text-decoration:none;
+}
+
+.maintext{
+    /*was not needed*/
+}
+
+.specslist{
+    /*was not needed*/
+}
+
+.column{
+    width:300px;
+    float:left;
+    margin:10px;
+}
+
+.weblink{ /*sets the color, size, and position for link to T@B website at bottom of each page*/
+    color:white;
+    font-size:20px;
+    background-color:dimgray;
+    position:absolute;
+    top:550px;
+    left:10px;
+}
+
+#mainpic1{ /*sets size and location for picture on MainPage*/
+    width:300px;
+    margin-top:40px;
+    float:left;
+}
+
+#historypic1{ /*sets size and margin for picture on HistoryPage*/
+    width:540px;
+    margin-right:10px;
+}
+
+#specspic1, #specspic3{ /*sets size and margin for pictures 1 and 3 on SpecsPage*/
+    width:250px;
+    margin-right:10px;
+    margin-bottom:30px;
+}
+
+#specspic2{ /*sets size and margin for picture 2 on SpecsPage*/
+    width:400px;
+    margin-right:10px;
+}
