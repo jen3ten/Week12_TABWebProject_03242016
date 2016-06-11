@@ -31,3 +31,36 @@ c:\users\wecancodeit\documents\visual studio 2015\Projects\Week12_T@BWebProject_
 c:\users\wecancodeit\documents\visual studio 2015\Projects\Week12_T@BWebProject_03242016\Week12_T@BWebProject_03242016\obj\Debug\Week12_T@BWebProject_03242016.csprojResolveAssemblyReference.cache
 c:\users\wecancodeit\documents\visual studio 2015\Projects\Week12_T@BWebProject_03242016\Week12_T@BWebProject_03242016\obj\Debug\Week12_T@BWebProject_03242016.dll
 c:\users\wecancodeit\documents\visual studio 2015\Projects\Week12_T@BWebProject_03242016\Week12_T@BWebProject_03242016\obj\Debug\Week12_T@BWebProject_03242016.pdb
+C:\Users\jenev\OneDrive\Documents\Visual Studio 2015\WCCI Projects\Week12_TABWebProject_03242016\Week12_T@BWebProject_03242016\bin\ApplicationInsights.config
+C:\Users\jenev\OneDrive\Documents\Visual Studio 2015\WCCI Projects\Week12_TABWebProject_03242016\Week12_T@BWebProject_03242016\bin\roslyn\csc.exe
+C:\Users\jenev\OneDrive\Documents\Visual Studio 2015\WCCI Projects\Week12_TABWebProject_03242016\Week12_T@BWebProject_03242016\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jenev\OneDrive\Documents\Visual Studio 2015\WCCI Projects\Week12_TABWebProject_03242016\Week12_T@BWebProject_03242016\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jenev\OneDrive\Documents\Visual Studio 2015\WCCI Projects\Week12_TABWebProject_03242016\Week12_T@BWebProject_03242016\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jenev\OneDrive\Documents\Visual Studio 2015\WCCI Projects\Week12_TABWebProject_03242016\Week12_T@BWebProject_03242016\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jenev\OneDrive\Documents\Visual Studio 2015\WCCI Projects\Week12_TABWebProject_03242016\Week12_T@BWebProject_03242016\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jenev\OneDrive\Documents\Visual Studio 2015\WCCI Projects\Week12_TABWebProject_03242016\Week12_T@BWebProject_03242016\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jenev\OneDrive\Documents\Visual Studio 2015\WCCI Projects\Week12_TABWebProject_03242016\Week12_T@BWebProject_03242016\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jenev\OneDrive\Documents\Visual Studio 2015\WCCI Projects\Week12_TABWebProject_03242016\Week12_T@BWebProject_03242016\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jenev\OneDrive\Documents\Visual Studio 2015\WCCI Projects\Week12_TABWebProject_03242016\Week12_T@BWebProject_03242016\bin\roslyn\vbc.exe
+C:\Users\jenev\OneDrive\Documents\Visual Studio 2015\WCCI Projects\Week12_TABWebProject_03242016\Week12_T@BWebProject_03242016\bin\roslyn\VBCSCompiler.exe
+C:\Users\jenev\OneDrive\Documents\Visual Studio 2015\WCCI Projects\Week12_TABWebProject_03242016\Week12_T@BWebProject_03242016\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jenev\OneDrive\Documents\Visual Studio 2015\WCCI Projects\Week12_TABWebProject_03242016\Week12_T@BWebProject_03242016\bin\Week12_T@BWebProject_03242016.dll.config
+C:\Users\jenev\OneDrive\Documents\Visual Studio 2015\WCCI Projects\Week12_TABWebProject_03242016\Week12_T@BWebProject_03242016\bin\Week12_T@BWebProject_03242016.dll
+C:\Users\jenev\OneDrive\Documents\Visual Studio 2015\WCCI Projects\Week12_TABWebProject_03242016\Week12_T@BWebProject_03242016\bin\Week12_T@BWebProject_03242016.pdb
+C:\Users\jenev\OneDrive\Documents\Visual Studio 2015\WCCI Projects\Week12_TABWebProject_03242016\Week12_T@BWebProject_03242016\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\jenev\OneDrive\Documents\Visual Studio 2015\WCCI Projects\Week12_TABWebProject_03242016\Week12_T@BWebProject_03242016\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\jenev\OneDrive\Documents\Visual Studio 2015\WCCI Projects\Week12_TABWebProject_03242016\Week12_T@BWebProject_03242016\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\jenev\OneDrive\Documents\Visual Studio 2015\WCCI Projects\Week12_TABWebProject_03242016\Week12_T@BWebProject_03242016\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\jenev\OneDrive\Documents\Visual Studio 2015\WCCI Projects\Week12_TABWebProject_03242016\Week12_T@BWebProject_03242016\bin\Microsoft.AI.Web.dll
+C:\Users\jenev\OneDrive\Documents\Visual Studio 2015\WCCI Projects\Week12_TABWebProject_03242016\Week12_T@BWebProject_03242016\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\jenev\OneDrive\Documents\Visual Studio 2015\WCCI Projects\Week12_TABWebProject_03242016\Week12_T@BWebProject_03242016\bin\Microsoft.ApplicationInsights.dll
+C:\Users\jenev\OneDrive\Documents\Visual Studio 2015\WCCI Projects\Week12_TABWebProject_03242016\Week12_T@BWebProject_03242016\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jenev\OneDrive\Documents\Visual Studio 2015\WCCI Projects\Week12_TABWebProject_03242016\Week12_T@BWebProject_03242016\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\jenev\OneDrive\Documents\Visual Studio 2015\WCCI Projects\Week12_TABWebProject_03242016\Week12_T@BWebProject_03242016\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\jenev\OneDrive\Documents\Visual Studio 2015\WCCI Projects\Week12_TABWebProject_03242016\Week12_T@BWebProject_03242016\bin\Microsoft.AI.Web.xml
+C:\Users\jenev\OneDrive\Documents\Visual Studio 2015\WCCI Projects\Week12_TABWebProject_03242016\Week12_T@BWebProject_03242016\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\jenev\OneDrive\Documents\Visual Studio 2015\WCCI Projects\Week12_TABWebProject_03242016\Week12_T@BWebProject_03242016\bin\Microsoft.ApplicationInsights.xml
+C:\Users\jenev\OneDrive\Documents\Visual Studio 2015\WCCI Projects\Week12_TABWebProject_03242016\Week12_T@BWebProject_03242016\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jenev\OneDrive\Documents\Visual Studio 2015\WCCI Projects\Week12_TABWebProject_03242016\Week12_T@BWebProject_03242016\obj\Debug\Week12_T@BWebProject_03242016.csprojResolveAssemblyReference.cache
+C:\Users\jenev\OneDrive\Documents\Visual Studio 2015\WCCI Projects\Week12_TABWebProject_03242016\Week12_T@BWebProject_03242016\obj\Debug\Week12_T@BWebProject_03242016.dll
+C:\Users\jenev\OneDrive\Documents\Visual Studio 2015\WCCI Projects\Week12_TABWebProject_03242016\Week12_T@BWebProject_03242016\obj\Debug\Week12_T@BWebProject_03242016.pdb
